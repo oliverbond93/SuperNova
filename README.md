@@ -1,2 +1,2 @@
-# supernova
+# SuperNova
 The world's first fully intelligent virtual assistant...
