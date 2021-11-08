@@ -8,9 +8,11 @@ print('blablablablablablalbalblalba')
 
 print('Test of Pycharm git stuff')
 
+
 def what_is_this():
-  
-  for i in range(1,random.randint(1,200)):
-    print(i)
-    
+    for i in range(1, random.randint(1, 200)):
+        print(i)
+
+what_is_this()
+what_is_this()
 what_is_this()
